@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/7943f0e1-df28-4e26-81f8-cb0b92ed7eb5
 //Janji 
 
 Saya Nadzalla Diva Asmara Sutedja dengan Nim 2408095 mengerjakan TP5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
@@ -14,5 +16,32 @@ Merupakan pencatatan data dari sebuah toko elektronik yang didalamnya menampilka
 4. Setelah memiliki data user dapat melakukan perubahan pada data yang sudah dimasukan. Perubahan tersebut dapat dilakukan di seluruh atribut yang ada kecuali nomor karena sudah otomatis dibuat dan id produknya.
 5. Jika data yang dimasukan sudah tidak sesuai dengan kebutuhan atau data sudah tidak dibutuhkan di toko elektronik, user dapat menghapus data tersebut dengan melakukan klik pada data yang ingin dihapus kemudian melakukan klik pada tombol delete. Sebelum data dihapus program akan meminta konfirmasi mengenai keyakinan apa benar user ingin menghapus data tersebut. Setelah melakukan konfirmasi data akan benar benar terhapus dan sudah tidak bisa dilihat lagi di dalam tabel.
 
+// Dokumentasi 
+1. Error handling insert dan pengecekan id tidak boleh sama 
 
+https://github.com/user-attachments/assets/6983910a-5778-424c-b864-2c231c9767e0
+
+
+2. Berhasil menambahkan data ke dalam database 
+
+
+https://github.com/user-attachments/assets/0407131e-bfa9-4084-b384-e9dfe6f23b07
+
+
+3. Error handling update dan pada saat update id tidak dapat diubah
+   
+
+
+https://github.com/user-attachments/assets/71070abe-3663-4008-ba22-57413f8e6aab
+
+
+4. Cancel jika tadi melakukan update agar bisa menambah data
+   
+
+https://github.com/user-attachments/assets/252cfc34-1ed0-4e9e-ba79-ac4fdf81d344
+
+
+5. Menghapus data di database
+
+https://github.com/user-attachments/assets/8f7112ac-3fd8-4d14-a69f-355fa044ffcf
 
