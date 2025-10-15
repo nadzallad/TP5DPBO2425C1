@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/7943f0e1-df28-4e26-81f8-cb0b92ed7eb5
 //Janji 
 
 Saya Nadzalla Diva Asmara Sutedja dengan Nim 2408095 mengerjakan TP5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
