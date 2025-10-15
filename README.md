@@ -14,6 +14,7 @@ Merupakan pencatatan data dari sebuah toko elektronik yang didalamnya menampilka
 3. Setelah data dimasukan dan tampil dalam tabel produk maka user dapat melihat data - data yang sebelumnya dimasukan dengan melakukan running program atau melihat pada database.
 4. Setelah memiliki data user dapat melakukan perubahan pada data yang sudah dimasukan. Perubahan tersebut dapat dilakukan di seluruh atribut yang ada kecuali nomor karena sudah otomatis dibuat dan id produknya.
 5. Jika data yang dimasukan sudah tidak sesuai dengan kebutuhan atau data sudah tidak dibutuhkan di toko elektronik, user dapat menghapus data tersebut dengan melakukan klik pada data yang ingin dihapus kemudian melakukan klik pada tombol delete. Sebelum data dihapus program akan meminta konfirmasi mengenai keyakinan apa benar user ingin menghapus data tersebut. Setelah melakukan konfirmasi data akan benar benar terhapus dan sudah tidak bisa dilihat lagi di dalam tabel.
+6. Tombol cancel digunakan apabila batal melakukan update atau insert. Jika batal melakukan update untuk menambahkan data wajib menekan tombol cancel agar dapat menambahkan id baru.
 
 // Dokumentasi 
 1. Error handling insert dan pengecekan id tidak boleh sama 
