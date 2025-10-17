@@ -28,11 +28,11 @@ https://github.com/user-attachments/assets/6983910a-5778-424c-b864-2c231c9767e0
 https://github.com/user-attachments/assets/0407131e-bfa9-4084-b384-e9dfe6f23b07
 
 
-3. Error handling update dan pada saat update id tidak dapat diubah
+3. Error handling, update dan pada saat update id tidak dapat diubah
    
 
 
-https://github.com/user-attachments/assets/71070abe-3663-4008-ba22-57413f8e6aab
+https://github.com/user-attachments/assets/88b8a387-f51a-4520-a407-bd3e120d7d64
 
 
 4. Cancel jika tadi melakukan update agar bisa menambah data
